@@ -4,7 +4,7 @@
 <div class="row">
 <br>
     <div class="col s12 m10 l8 offset-m1 offset-l2 card-panel">
-        <h1>Unete a hambregram</h1>
+        <h1>Registro de usuario</h1>
          <blockquote>
       Registrate para publicar, comentar publicaciones y
        disfrutar de más funcionalidades gratuitas.
