@@ -7,8 +7,7 @@
         <h1>Unete a hambregram</h1>
          <blockquote>
       Registrate para publicar, comentar publicaciones y
-       disfrutar de más funcionalidades gratuitas, asegurate de proporcionar 
-       los datos correctamente ya que tendras un lapso de 24 horas para actualizar tus datos
+       disfrutar de más funcionalidades gratuitas.
     </blockquote>
         <div class="divider"></div>
         <form class="form-horizontal" role="form" method="POST" action="{{ url('/register') }}">
