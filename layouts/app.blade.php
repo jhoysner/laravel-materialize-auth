@@ -63,7 +63,7 @@
       <li>
     <form>
         <div class="input-field">
-          <input id="search" type="search" value='nemo en barinas' required>
+          <input id="search" type="search" value='' required>
           <label for="search"><i class="material-icons">search</i></label>
           <i class="material-icons">close</i>
         </div>
